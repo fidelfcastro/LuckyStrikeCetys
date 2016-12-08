@@ -1,0 +1,94 @@
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\bin\Debug\luckyStrike.exe.config
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\bin\Debug\luckyStrike.exe
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\bin\Debug\luckyStrike.pdb
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\obj\Debug\luckyStrike.csprojResolveAssemblyReference.cache
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Form1.resources
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Properties.Resources.resources
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\obj\Debug\luckyStrike.csproj.GenerateResource.Cache
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\obj\Debug\luckyStrike.exe
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\obj\Debug\luckyStrike.pdb
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\bin\Debug\MySql.Data.dll
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\bin\Debug\MySql.Data.xml
+c:\users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\obj\Debug\luckyStrike.createUser.resources
+C:\Users\fidel\onedrive\documents\visual studio 2015\Projects\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Game.resources
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\bin\Debug\luckyStrike.exe.config
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.exe
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.pdb
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\bin\Debug\luckyStrike.exe
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\bin\Debug\luckyStrike.pdb
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\bin\Debug\MySql.Data.xml
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.csprojResolveAssemblyReference.cache
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.createUser.resources
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Form1.resources
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Game.resources
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Properties.Resources.resources
+C:\Users\Rodo\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.csproj.GenerateResource.Cache
+D:\luckyStrike\luckyStrike\bin\Debug\luckyStrike.exe.config
+D:\luckyStrike\luckyStrike\obj\Debug\luckyStrike.exe
+D:\luckyStrike\luckyStrike\obj\Debug\luckyStrike.pdb
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\bin\Debug\luckyStrike.exe.config
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.exe
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.pdb
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.csprojResolveAssemblyReference.cache
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.createUser.resources
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Form1.resources
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Game.resources
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Properties.Resources.resources
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.csproj.GenerateResource.Cache
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\bin\Debug\luckyStrike.exe
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\bin\Debug\luckyStrike.pdb
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\bin\Debug\MySql.Data.dll
+C:\Users\fidel\Desktop\luckyStrike\luckyStrike\bin\Debug\MySql.Data.xml
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\bin\Debug\luckyStrike.exe.config
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.exe
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.pdb
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\bin\Debug\luckyStrike.exe
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\bin\Debug\luckyStrike.pdb
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\bin\Debug\MySql.Data.xml
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.csprojResolveAssemblyReference.cache
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.createUser.resources
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Form1.resources
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Game.resources
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.Properties.Resources.resources
+C:\Users\chaid\Desktop\luckyStrike\luckyStrike\obj\Debug\luckyStrike.csproj.GenerateResource.Cache
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\bin\Debug\luckyStrike.exe.config
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.exe
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.pdb
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\bin\Debug\luckyStrike.exe
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\bin\Debug\luckyStrike.pdb
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\bin\Debug\MySql.Data.dll
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\bin\Debug\MySql.Data.xml
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.csprojResolveAssemblyReference.cache
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.createUser.resources
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.Form1.resources
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.Properties.Resources.resources
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.csproj.GenerateResource.Cache
+C:\Users\fidel\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.Game.resources
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\bin\Debug\luckyStrike.exe.config
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.exe
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.pdb
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\bin\Debug\luckyStrike.exe
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\bin\Debug\luckyStrike.pdb
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\bin\Debug\MySql.Data.xml
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.csprojResolveAssemblyReference.cache
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.createUser.resources
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.Form1.resources
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.Game.resources
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.Properties.Resources.resources
+C:\Users\Rodo\Documents\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.csproj.GenerateResource.Cache
+C:\Users\chaid\Desktop\luckyStrike2\luckyStrike\bin\Debug\luckyStrike.exe.config
+C:\Users\chaid\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.exe
+C:\Users\chaid\Desktop\luckyStrike2\luckyStrike\obj\Debug\luckyStrike.pdb
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\bin\Debug\luckyStrike.exe.config
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\obj\Debug\luckyStrike.exe
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\obj\Debug\luckyStrike.pdb
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\bin\Debug\luckyStrike.exe
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\bin\Debug\luckyStrike.pdb
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\bin\Debug\MySql.Data.dll
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\bin\Debug\MySql.Data.xml
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\obj\Debug\luckyStrike.csprojResolveAssemblyReference.cache
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\obj\Debug\luckyStrike.createUser.resources
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\obj\Debug\luckyStrike.Form1.resources
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\obj\Debug\luckyStrike.Game.resources
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\obj\Debug\luckyStrike.Properties.Resources.resources
+C:\Users\fidel\Desktop\luckyStrikeCetys\luckyStrike\obj\Debug\luckyStrike.csproj.GenerateResource.Cache
